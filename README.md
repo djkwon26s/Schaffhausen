@@ -6,7 +6,11 @@
 왜 만들었는가 (문제 정의)
 
 ## 3. Architecture
-서서히 만들어나갈 예정
+Name/
+├── PRD.md                  # Product Requirements Document
+├── TASK_LIST.md           # Development Task List
+├── AGENTS.md              # This file - technical overview
+├── CLAUDE.md              <img width="701" height="159" alt="image" src="https://github.com/user-attachments/assets/24a5cf3c-0fa0-4906-907e-b0a6951af164" />
 
 ## 4. Installation
 -미제공
